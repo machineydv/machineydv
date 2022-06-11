@@ -1,1 +1,4 @@
-My old account got nuked with many repsitories and stuffs I created. So, this is my new account and I have uploaded backup stuffs from before, quite before. My code will be very outdated so I apologize. I will update them. Also I am on break now. Will return to hacking and programming soon
+- My old account got nuked with many repsitories and stuffs I created. So, this is my new account and I have uploaded backup stuffs from before, quite before. 
+- My code will be very outdated so I apologize. I will update them. Actually I uploaded the backup of very old code I had on PC
+- I managed to recover some python code from PyPI but 2 golang tools I developed are **gone**
+- Also I am on **break** now. Will return to hacking and programming soon
