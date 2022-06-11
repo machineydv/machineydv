@@ -10,4 +10,4 @@
 - [ ] Setup Bromantane Browser, Debug set into message error
 - [ ] Setup Reddit Browser
 - [ ] Split Bromatane Browser into browsers of each chemicals
-
+- [ ] Rewrite CRLFi into golang crlfscan (deferred for now)
