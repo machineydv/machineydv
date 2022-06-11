@@ -1,0 +1,1 @@
+My old account got nuked with many repsitories and stuffs I created. So, this is my new account and I have uploaded backup stuffs from before, quite before. My code will be very outdated so I apologize. I will update them. Also I am on break now. Will return to hacking and programming soon
