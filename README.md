@@ -1,11 +1,7 @@
-# Hi there 👋 Machinexa's here :sunglasses: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machinexa2&layout=compact&theme=github_dark&hide=css,scss,makefile,dockerfile)
+# Hi there 👋 Machineydv's here :sunglasses: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machineydv&layout=compact&theme=github_dark&hide=css,scss,makefile,dockerfile)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=machinexa2&show_icons=true&theme=github_dark)
-
-#### Other Names: Machinexa2, Machineyadav
-* Beware of fake/phishing accounts. Unless you verify its really me never trust any machine.
-* I might not add
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=machineydv&show_icons=true&theme=github_dark)
 
 ### Real Accounts:
 * **Discord**: machineydv#7097
@@ -18,4 +14,4 @@
 * Drugs aren't very good for you but I believe it should be decriminalized or legalized.
 
 ### Support 
-If you wanted to support me for the tools I create, chekout [this](https://github.com/machinexa2/machinexa2/blob/master/SUPPORT.md).
+If you wanted to support me for the tools I create, chekout [this](https://github.com/machineydv/machineydv/blob/master/SUPPORT.md).
