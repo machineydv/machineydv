@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=machineydv&show_icons=true&theme=github_dark)
 
 ### Real Accounts:
-* **Discord**: machineydv#7097
+* **Discord**: machineyadav#7097
 * **Discord Server**: [Do Anything](https://discord.gg/ejcswge)
 * **Facebook**: Nope 😄
 * **Twitter**: [machinexa2](https://twitter.com/machinexa2)
