@@ -1,14 +1,19 @@
 # Updates/To-Do
 - [x] Account:
-	- [x] GitHub:
+	- [ ] GitHub:
 		- [x] Move from old account to new account machineydv
 		- [x] Reupload everything to GitHub once again
 		- [x] Delete unnecessary repositories and make some repositories public
 		- [x] Update name to something better if possible (Wont)
+		- [ ] Add gpg authentication and 2FA on GitHub
 	- [x] Discord:
-		- [x] Reupdate everything
+		- [x] Reupdate everything, change password
 	- [ ] Twitter:
-		- [ ] Reupdate everything
+		- [ ] Reupdate everything, change password
+	- [ ] Facebook:
+		- [ ] Change password
+	- [ ] Google/Etc:
+		- [ ] Change passwords, track passwords and log
 - [ ] GitHub:
 	- [ ] My-Tools:
 		- [x] Updates my tools to use latest source from PyPI
@@ -40,3 +45,5 @@
 		- [ ] Improve logs, check for suspensions
 		- [ ] Setup Github Actions with GithubBrowser
 		- [ ] Improve user management and make a waiting queue 
+	- [ ] Other:
+		- [ ] Explore new platforms for potential expansion of work
