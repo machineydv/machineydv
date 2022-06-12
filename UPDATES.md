@@ -12,6 +12,8 @@
 		- [ ] Reupdate everything, change password
 	- [ ] Facebook:
 		- [ ] Change password
+	- [ ] Stackoverflow:
+		- [ ] Description
 	- [ ] Google and Others:
 		- [ ] Change passwords, track passwords and log
 - [ ] GitHub:
