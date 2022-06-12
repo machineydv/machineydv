@@ -1,13 +1,24 @@
 # Updates/To-Do
-- [x] Move from old account to new account machineydv
-- [x] Reupload everything to GitHub once again
-- [x] Delete unnecessary stuff and make some private repository public
-- [x] Cross check for token leakage, name problems etc (Partially done)
-- [ ] Add extensions to firefox ([] ublock (ask mandip for url), [x] dark mode, [x] presearch)
-- [x] Updates my tools to use latest source from PyPI
-- [ ] Setup tox and Github Actions in my tools
-- [x] Fetch tokens of Discord Bots and other tokens
-- [x] Setup Bromantane Browser, Debug set into message error (Partially)
-- [x] Setup Reddit Browser (Partial)
-- [ ] Split Bromatane Browser into browsers of each chemicals
-- [ ] Rewrite CRLFi into golang crlfscan (deferred for now)
+- [x] Account:
+	- [x] Move from old account to new account machineydv
+	- [x] Reupload everything to GitHub once again
+	- [x] Delete unnecessary repositories and make some repositories public
+	- [x] Update name to something better if possible (Wont)
+- [ ] GitHub:
+	- [x] Updates my tools to use latest source from PyPI
+	- [ ] Setup tox with unittests for some of the tools (deferred)
+	- [ ] CI/CD of my tools to Github Actions (deferred)
+	- [ ] Rewrite CRLFi (python) to crlfscan (golang) (deferred)
+- [ ] Discord:
+	- [x] Fix token leak of discord bots.
+	- [x] Generate additional token of other applications
+	- [ ] Add swap feature to discord bot
+	- [ ] Add new channels and embeds in that channels of Mandip's server
+- [ ] Sirsadalot/Github:
+	- [ ] BromantaneBrowser
+		- [x] Upload BromantaneBrowser
+		- [ ] Fix program function getting set instead of string 
+		- [ ] Split BromataneBrowser into browsers of each chemicals
+	- [ ] GithubBrowser
+		- [x] Upload GithubBrowser (Partially)
+		- [ ] Improve user management, keep awaiting queue 
