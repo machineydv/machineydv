@@ -6,6 +6,7 @@
 	- [x] Update name to something better if possible (Wont)
 - [ ] GitHub:
 	- [x] Updates my tools to use latest source from PyPI
+	- [ ] Updates code of each tools from PyPI, generate releases and tag versions
 	- [ ] Setup tox with unittests for some of the tools (deferred)
 	- [ ] CI/CD of my tools to Github Actions (deferred)
 	- [ ] Rewrite CRLFi (python) to crlfscan (golang) (deferred)
