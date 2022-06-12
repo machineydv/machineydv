@@ -21,13 +21,17 @@
 - [ ] Discord:
 	- [x] Fix token leak of discord bots.
 	- [x] Generate additional token of other applications
-	- [ ] Add swap feature to discord bot
+	- [ ] Add swap feature to private discord bot
 	- [ ] Add new channels and embeds in that channels of Mandip's server
 - [ ] Sirsadalot/Github:
 	- [ ] BromantaneBrowser
-		- [x] Upload BromantaneBrowser
+		- [x] Upload BromantaneBrowser (Partially)
+		- [ ] Setup Github Actions with BromantaneBrowser
+		- [ ] Improve logs, check for suspensions
 		- [ ] Fix program function getting set instead of string 
 		- [ ] Split BromataneBrowser into browsers of each chemicals
 	- [ ] GithubBrowser
 		- [x] Upload GithubBrowser (Partially)
+		- [ ] Improve logs, check for suspensions
+		- [ ] Setup Github Actions with GithubBrowser
 		- [ ] Improve user management, keep awaiting queue 
