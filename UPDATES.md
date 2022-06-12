@@ -1,9 +1,14 @@
 # Updates/To-Do
 - [x] Account:
-	- [x] Move from old account to new account machineydv
-	- [x] Reupload everything to GitHub once again
-	- [x] Delete unnecessary repositories and make some repositories public
-	- [x] Update name to something better if possible (Wont)
+	- [x] GitHub:
+		- [x] Move from old account to new account machineydv
+		- [x] Reupload everything to GitHub once again
+		- [x] Delete unnecessary repositories and make some repositories public
+		- [x] Update name to something better if possible (Wont)
+	- [x] Discord:
+		- [x] Reupdate everything
+	- [ ] Twitter:
+		- [ ] Reupdate everything
 - [ ] GitHub:
 	- [x] Updates my tools to use latest source from PyPI
 	- [ ] Updates code of each tools from PyPI, generate releases and tag versions
