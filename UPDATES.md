@@ -2,12 +2,12 @@
 - [x] Move from old account to new account machineydv
 - [x] Reupload everything to GitHub once again
 - [x] Delete unnecessary stuff and make some private repository public
-- [ ] Cross check for token leakage, name problems etc
-- [ ] Add extensions to firefox ([ ] ublock (ask mandip for url), [ ] dark mode, [ ] metamask)
-- [ ] Updates my tools to use latest source from PyPI
+- [x] Cross check for token leakage, name problems etc (Partially done)
+- [ ] Add extensions to firefox ([] ublock (ask mandip for url), [x] dark mode, [x] presearch)
+- [x] Updates my tools to use latest source from PyPI
 - [ ] Setup tox and Github Actions in my tools
-- [ ] Fetch tokens of Discord Bots and other tokens
-- [ ] Setup Bromantane Browser, Debug set into message error
-- [ ] Setup Reddit Browser
+- [x] Fetch tokens of Discord Bots and other tokens
+- [x] Setup Bromantane Browser, Debug set into message error (Partially)
+- [x] Setup Reddit Browser (Partial)
 - [ ] Split Bromatane Browser into browsers of each chemicals
 - [ ] Rewrite CRLFi into golang crlfscan (deferred for now)
