@@ -29,7 +29,12 @@
 		- [ ] Setup Github Actions with BromantaneBrowser
 		- [ ] Improve logs, check for suspensions
 		- [ ] Fix program function getting set instead of string 
-		- [ ] Split BromataneBrowser into browsers of each chemicals
+		- [ ] Split BromataneBrowser into Tropisetron and Bromantane browsers each
+		- [ ] More users support, parallelize and improve speed
+	- [ ] TropisetronBrowser
+		- [ ] More users support
+		- [ ] Add Sirs list of nicotinic agonists 
+		- [ ] Parallelize and improve speed 
 	- [ ] GithubBrowser
 		- [x] Upload GithubBrowser (Partially)
 		- [ ] Improve logs, check for suspensions
