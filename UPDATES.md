@@ -12,7 +12,7 @@
 		- [ ] Reupdate everything, change password
 	- [ ] Facebook:
 		- [ ] Change password
-	- [ ] Google/Etc:
+	- [ ] Google and Others:
 		- [ ] Change passwords, track passwords and log
 - [ ] GitHub:
 	- [ ] My-Tools:
