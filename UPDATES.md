@@ -39,4 +39,4 @@
 		- [x] Upload GithubBrowser (Partially)
 		- [ ] Improve logs, check for suspensions
 		- [ ] Setup Github Actions with GithubBrowser
-		- [ ] Improve user management, keep awaiting queue 
+		- [ ] Improve user management and make a waiting queue 
