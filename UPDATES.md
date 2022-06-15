@@ -42,10 +42,10 @@
 		- [ ] More users support
 		- [ ] Add Sirs list of nicotinic agonists 
 		- [ ] Parallelize and improve speed 
-	- [ ] GithubBrowser
+	- [x] GithubBrowser
 		- [x] Upload GithubBrowser (Partially)
-		- [ ] Improve logs, check for suspensions
-		- [ ] Setup Github Actions with GithubBrowser
-		- [ ] Improve user management and make a waiting queue 
+		- [x] Improve logs, check for suspensions
+		- [x] Setup Github Actions with GithubBrowser
+		- [x] Improve user management and make a waiting queue 
 	- [ ] Other:
 		- [ ] Explore new platforms for potential expansion of work
