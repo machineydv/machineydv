@@ -19,7 +19,7 @@
 - [ ] GitHub:
 	- [ ] My-Tools:
 		- [x] Updates my tools to use latest source from PyPI
-		- [ ] Updates code of each tools from PyPI, generate releases and tag versions
+		- [x] Updates code of each tools from PyPI, generate releases ~~and tag versions~~
 		- [ ] Setup tox with unittests for some of the tools (deferred)
 		- [ ] CI/CD of my tools to Github Actions (deferred)
 		- [ ] Rewrite CRLFi (python) to crlfscan (golang) (deferred)
@@ -29,23 +29,25 @@
 	- [x] Fix token leak of discord bots.
 	- [x] Generate additional token of other applications
 	- [ ] Add swap feature to private discord bot
-	- [ ] Add new channels and embeds in that channels of Mandip's server
+	- [x] Add new channels and embeds in that channels of Mandip's server
 - [ ] Sirsadalot/Github:
 	- [ ] BromantaneBrowser
-		- [x] Upload BromantaneBrowser (Partially)
-		- [ ] Setup Github Actions with BromantaneBrowser
-		- [ ] Improve logs, check for suspensions
-		- [ ] Fix program function getting set instead of string 
-		- [ ] Split BromataneBrowser into Tropisetron and Bromantane browsers each
-		- [ ] More users support, parallelize and improve speed
+		- [x] Upload BromantaneBrowser (partially)
+		- [x] Setup Github Actions with BromantaneBrowser
+		- [x] Improve logs, check for suspensions
+		- [x] Fix program function getting set instead of string 
+		- [x] Split BromataneBrowser into Tropisetron and Bromantane browsers each
+		- [x] More users support, parallelize and improve speed (partially)
 	- [ ] TropisetronBrowser
-		- [ ] More users support
-		- [ ] Add Sirs list of nicotinic agonists 
+		- [x] More users support
+		- [x] Add Sirs list of nicotinic agonists 
 		- [ ] Parallelize and improve speed 
 	- [x] GithubBrowser
-		- [x] Upload GithubBrowser (Partially)
+		- [x] Upload GithubBrowser (partially)
 		- [x] Improve logs, check for suspensions
 		- [x] Setup Github Actions with GithubBrowser
 		- [x] Improve user management and make a waiting queue 
+	- [x] SKQ1Browser
+		- [x] Add SKQ1, CDP-Choline, NACET and Fasoracetam
 	- [ ] Other:
 		- [ ] Explore new platforms for potential expansion of work
