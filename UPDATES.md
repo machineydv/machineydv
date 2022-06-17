@@ -31,7 +31,7 @@
 	- [ ] Add swap feature to private discord bot
 	- [x] Add new channels and embeds in that channels of Mandip's server
 - [ ] Sirsadalot/Github:
-	- [ ] BromantaneBrowser
+	- [x] BromantaneBrowser
 		- [x] Upload BromantaneBrowser (partially)
 		- [x] Setup Github Actions with BromantaneBrowser
 		- [x] Improve logs, check for suspensions
