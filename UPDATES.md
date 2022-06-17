@@ -31,23 +31,25 @@
 	- [ ] Add swap feature to private discord bot
 	- [x] Add new channels and embeds in that channels of Mandip's server
 - [ ] Sirsadalot/Github:
-	- [x] BromantaneBrowser
+	- [ ] BromantaneBrowser
 		- [x] Upload BromantaneBrowser (partially)
 		- [x] Setup Github Actions with BromantaneBrowser
 		- [x] Improve logs, check for suspensions
 		- [x] Fix program function getting set instead of string 
 		- [x] Split BromataneBrowser into Tropisetron and Bromantane browsers each
-		- [x] More users support, parallelize and improve speed (partially)
+		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
 	- [ ] TropisetronBrowser
 		- [x] More users support
 		- [x] Add Sirs list of nicotinic agonists 
-		- [ ] Parallelize and improve speed 
+		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
+	- [ ] SKQ1Browser
+		- [x] Split from Bromantane Browser
+		- [x] Add SKQ1, CDP-Choline, NACET and Fasoracetam
+		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
 	- [x] GithubBrowser
 		- [x] Upload GithubBrowser (partially)
 		- [x] Improve logs, check for suspensions
 		- [x] Setup Github Actions with GithubBrowser
 		- [x] Improve user management and make a waiting queue 
-	- [x] SKQ1Browser
-		- [x] Add SKQ1, CDP-Choline, NACET and Fasoracetam
 	- [ ] Other:
 		- [ ] Explore new platforms for potential expansion of work
