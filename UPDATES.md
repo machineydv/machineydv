@@ -32,22 +32,22 @@
 	- [x] Add new channels and embeds in that channels of Mandip's server
 - [ ] Sirsadalot/Github:
 	- [ ] BromantaneBrowser
-		- [x] Upload BromantaneBrowser (partially)
+		- [x] Upload BromantaneBrowser 
 		- [x] Setup Github Actions with BromantaneBrowser
 		- [x] Improve logs, check for suspensions
 		- [x] Fix program function getting set instead of string 
 		- [x] Split BromataneBrowser into Tropisetron and Bromantane browsers each
-		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
+		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed
 	- [ ] TropisetronBrowser
 		- [x] Split from Bromantane browser, add new messages 
 		- [x] Add Sirs list of nicotinic agonists and sort by priority order
-		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
+		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed
 	- [ ] SKQ1Browser
 		- [x] Split from Bromantane Browser
 		- [x] Add SKQ1, CDP-Choline, NACET and Fasoracetam
-		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
+		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed
 	- [x] GithubBrowser
-		- [x] Upload GithubBrowser (partially)
+		- [x] Upload GithubBrowser 
 		- [x] Improve logs, check for suspensions
 		- [x] Setup Github Actions with GithubBrowser
 		- [x] Improve user management and make a waiting queue 
