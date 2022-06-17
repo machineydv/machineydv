@@ -39,8 +39,8 @@
 		- [x] Split BromataneBrowser into Tropisetron and Bromantane browsers each
 		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
 	- [ ] TropisetronBrowser
-		- [x] More users support
-		- [x] Add Sirs list of nicotinic agonists 
+		- [x] Split from Bromantane browser, add new messages 
+		- [x] Add Sirs list of nicotinic agonists and sort by priority order
 		- [ ] More users support, parallelize (multithreaded/multiprocessing) and improve speed (partially)
 	- [ ] SKQ1Browser
 		- [x] Split from Bromantane Browser
